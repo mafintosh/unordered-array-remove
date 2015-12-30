@@ -1,6 +1,6 @@
 {
   "name": "unordered-array-remove",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Efficiently remove an element from an unordered array without doing a splice",
   "main": "index.js",
   "dependencies": {},
