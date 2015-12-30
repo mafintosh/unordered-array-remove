@@ -1,0 +1,20 @@
+{
+  "name": "unordered-array-remove",
+  "version": "0.0.0",
+  "description": "Efficiently remove an element from an unordered array without doing a splice",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/unordered-array-remove.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/unordered-array-remove/issues"
+  },
+  "homepage": "https://github.com/mafintosh/unordered-array-remove"
+}
