@@ -6,6 +6,8 @@ Efficiently remove an element from an unordered array without doing a splice
 npm install unordered-array-remove
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/unordered-array-remove.svg?style=flat)](http://travis-ci.org/mafintosh/unordered-array-remove)
+
 ## Usage
 
 ``` js
