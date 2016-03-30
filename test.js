@@ -16,5 +16,7 @@ tape('out of bounds', function (t) {
   var list = [0, 1, 2]
   remove(list, 42)
   t.same(list, [0, 1, 2])
+  remove(list, -1)
+  t.same(list, [0, 1, 2])
   t.end()
 })
